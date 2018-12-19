@@ -15,4 +15,18 @@ The known properties about those bottles are the name of their producer, their c
 1.	Obtain a good estimation for the weight of all those bottles. 
 2.	Write a script in python that, when given a csv file like "bottles.csv", generate a csv file "bottles_with_weight.csv" that have a column with the weight estimation for each bottle based on their properties.
 
+## File description
+- Untitle.ipynb: Data Analysis and ML modeling
+- bottles.csv: Train set
+- bottles_with_weight_20: 20 known bottles weight
+- comparisons.csv: list of the weight comparison for many pairs of those bottles
+- train.csv: Dataset clean
 
+## Interact with the project
+Feel free to clone the repo and do your own analysis, If you find something interesting that I not mentionned, comment or feel free to contact me.
+
+## Authors
+Mdhvince
+
+## License
+Project under the CC0-1.0 License
