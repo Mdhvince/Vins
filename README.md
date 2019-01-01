@@ -26,7 +26,7 @@ The known properties about those bottles are the name of their producer, their c
 Feel free to clone the repo and do your own analysis, If you find something interesting that I not mentionned, comment or feel free to contact me.
 
 ## Authors
-Mdhvince
+Medhy Vinceslas
 
 ## License
 Project under the CC0-1.0 License
